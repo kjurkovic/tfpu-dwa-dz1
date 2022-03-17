@@ -1,24 +1,6 @@
-# commitviewer
+### DWA
 
-## Project setup
-```
-yarn install
-```
+Zadatak: [Vue.js repo commit list](Zadatak.pdf)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Kristijan Jurkovic, 0303007494
+Dinamičke Web Aplikacije
